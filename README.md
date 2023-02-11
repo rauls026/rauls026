@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Hi, I'm Raul! <br/><a href="https://github.com/rauls026">Software Engineer</a>, <a href="https://www.linkedin.com/in/raul-sanchez-408139219/">Engineering Professional</a>
 
-<!--
-**rauls026/rauls026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
+- <b>Python</b>
+  - [Keylogger]((https://github.com/rauls026/Keylogger-Project))
 
-Here are some ideas to get you started:
+<h2> 🤳 Connect with me:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="RaulSanchez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/raul-sanchez-408139219/
