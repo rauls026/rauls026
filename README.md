@@ -2,11 +2,14 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
   
+- <b>Java</b>
+ - [Authenticate Existing Users](https://github.com/rauls026/Authenticate-Existing-Users)
+  
 - <b>Python</b>
-  - [Keylogger](https://github.com/rauls026/Keylogger-Project)
+ - [Keylogger](https://github.com/rauls026/Keylogger-Project)
   
 - <b>SQL</b>
-  - [Amazon Web Shopping Database](https://github.com/rauls026/Amazon-Database)
+ - [Amazon Web Shopping Database](https://github.com/rauls026/Amazon-Database)
 
 <h2> 🤳 Connect with me:</h2>
 
