@@ -4,6 +4,9 @@
   
 - <b>Python</b>
   - [Keylogger](https://github.com/rauls026/Keylogger-Project)
+  
+- <b>SQL</b>
+  - [Amazon Web Shopping Database](https://github.com/rauls026/Amazon-Database)
 
 <h2> 🤳 Connect with me:</h2>
 
