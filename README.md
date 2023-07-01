@@ -7,6 +7,7 @@
   
 - <b>Python</b>
  - [Keylogger](https://github.com/rauls026/Keylogger-Project)
+ - [Data Structures & Algorithms Practice](https://github.com/rauls026/Data-Structures-Practice)
   
 - <b>SQL</b>
  - [Amazon Web Shopping Database](https://github.com/rauls026/Amazon-Database)
