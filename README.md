@@ -6,7 +6,7 @@
  - [Authenticate Existing Users](https://github.com/rauls026/Authenticate-Existing-Users)
   
 - <b>Python</b>
- - [Keylogger](https://github.com/rauls026/Keylogger-Project)
+ - [Keylogger with Email Capability](https://github.com/rauls026/Keylogger-Project)
  - [Data Structures & Algorithms Practice](https://github.com/rauls026/Data-Structures-Practice)
   
 - <b>SQL</b>
